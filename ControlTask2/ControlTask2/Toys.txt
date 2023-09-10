@@ -1,0 +1,12 @@
+Toy - Bear, quantity - 10, weight - 0.8 id - 1
+Toy - Rabbit, quantity - 22, weight - 0.6 id - 2
+Toy - Ball, quantity - 13, weight - 0.3 id - 3
+Toy - skipping rope, quantity - 15, weight - 0.5 id - 4
+Toy - Car, quantity - 5, weight - 0.9 id - 5
+Toy - hopalong, quantity - 23, weight - 0.6 id - 6
+Toy - Bear, quantity - 10, weight - 0.8 id - 1
+Toy - Rabbit, quantity - 22, weight - 0.6 id - 2
+Toy - Ball, quantity - 13, weight - 0.3 id - 3
+Toy - skipping rope, quantity - 15, weight - 0.5 id - 4
+Toy - Car, quantity - 5, weight - 0.9 id - 5
+Toy - hopalong, quantity - 23, weight - 0.6 id - 6

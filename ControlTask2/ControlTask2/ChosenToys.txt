@@ -1,0 +1,4 @@
+
+Chosen toy - Bear, quantity - 10, weight - 0.8 id - 1
+Chosen toy - Bear, quantity - 10, weight - 0.8 id - 1
+Chosen toy - Car, quantity - 5, weight - 0.9 id - 5
